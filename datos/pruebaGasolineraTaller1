@@ -1,0 +1,13 @@
+tipo:Extra:20000:200.0
+tipo:Corriente:15000:100.0
+tipo:Diesel:12000:290.0
+tipo:Premium:25000:45.0
+surtidor:Juana:Extra:0.0:Corriente:0.0:Diesel:10.0:Premium:0.0
+surtidor:Rosa:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Jorge:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:0.0
+surtidor:Natalia:Extra:0.0:Corriente:0.0:Diesel:0.0:Premium:5.0
+empleado:Juana:120000
+empleado:Natalia:125000
+empleado:David:0
+empleado:Jorge:0
+empleado:Rosa:0
